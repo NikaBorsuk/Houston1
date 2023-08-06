@@ -1,0 +1,35 @@
+* {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: sans-serif;
+   margin-top: 1.5em;
+}
+ 
+h1 {
+    font-size: 32px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    table-layout: fixed;
+    width: auto;
+    margin-left: 15%;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+figure {
+    float: right;
+    width: auto;
+    padding: 10px;
+}
+
+ol {
+    width: auto;
+}
